@@ -19,7 +19,7 @@ Authors:
   - Jason Cox (https://github.com/jasonacox)
 """
 
-__version__ = "1.0.0"
+__version__ = "1.2.0"
 __author__ = "Sam Cox (https://github.com/jasonacox-sam), Jason Cox (https://github.com/jasonacox)"
 
 # Lazy imports - only load heavy dependencies when needed
